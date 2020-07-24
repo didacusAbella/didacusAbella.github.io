@@ -1,4 +1,5 @@
-# Personal Web Page created with jekyll
+# Info
+Personal web page created with jekyll
 
 # Orbit
 > This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
