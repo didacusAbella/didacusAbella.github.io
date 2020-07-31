@@ -70,12 +70,20 @@ education:
           - Conoscenza Tecnica (Programmazione, Ingegneria, Basi di Dati)
           - Conoscenza Teorica (Calcolatori, Reti, Web)
 experiences:
+    - role: Tirocinante
+      time: Ottombre (2020) - Dicembre (2020)
+      company: Mtn Company
+      details: |
+          È stato un tirocinio che ho svolto durante la mia carriera universitaria, dove ho avuto
+          la possibilità di interfacciarmi per la prima volta con Prestashop ed ho realizzato un piccolo
+          cron di sincronizzazione dati in entrata e in uscita da un database Access, ad un gestionale
+          di Prestashop.
     - role: Full Stack Developer
       time: Maggio(2020) - Luglio(2020)
-      company: Ente Comunale di Eboli
+      company: Lavoro da FreeLancer
       details: |
-        Ho realizzato una piattaforma gestionale per la prenotazione dei posti per le spiagge di 
-        Eboli.
+        Ho realizzato una piattaforma gestionale per la prenotazione dei posti per le spiagge del comune
+        di Eboli.
 projects:
     title: Progetti
     intro: >
@@ -119,7 +127,7 @@ skills:
       - name: Ruby (Sinatra,Sequel)
         level: 90%
 
-      - name: Javascript (Vue,Fastify)
+      - name: JS (Vue,Fastify)
         level: 90%
 
       - name: Java (JavaEE,Hadoop)
