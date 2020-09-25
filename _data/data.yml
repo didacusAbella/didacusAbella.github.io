@@ -112,14 +112,16 @@ projects:
 publications:
     title: Pubblicazioni
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      I lavori di ricerca durante l'università e quelli (chissà) che farò in futuro
     papers:
-      - title: un giorno farò un paper
+      - title: BlockChain, un'alternativa alla Proof of Work
         link: "#"
-        authors: non definito
-        conference: non definita
+        authors: Diego Avella
+        conference: Tesi di Laurea Triennale
+      - title: Integrazione Dati Medicali utilizzando lo standard HL7
+        link: "#"
+        authors: Diego Avella
+        conference: Tesi di Laurea Magistrale
 skills:
     title: Competenze
 
