@@ -79,18 +79,17 @@ experiences:
           cron di sincronizzazione dati in entrata e in uscita da un database Access, ad un gestionale
           di Prestashop.
     - role: Full Stack Developer
-      time: Maggio(2020) - Luglio(2020)
+      time: Dicembre(2020) - Febbraio(2021)
       company: Lavoro da FreeLancer
       details: |
-        Ho realizzato una piattaforma gestionale per la prenotazione dei posti per le spiagge del comune
-        di Eboli.
+        Ho realizzato una piattaforma gestionale per una concessionaria di automobili di Vallo della Lucania.
 projects:
     title: Progetti
     intro: >
-      Tutti i miei progetti sono disponibili sul mio link di github
+      Alcuni miei progetti sono disponibili sul mio link di github
     assignments:
       - title: YASPL
-        link: "https://github.com/didacusabella/YASPL"
+        link: "https://github.com/didacusAbella/YASPL"
         tagline: "Yet Another Simple Programming Language"
 
       - title: MRSIFT
@@ -98,21 +97,21 @@ projects:
         tagline: "Object Detection tramite estrazione di caratteristiche usando Hadoop"
 
       - title: Symposium
-        link: "https://github.com/didacusabella/Symposium"
+        link: "https://github.com/didacusAbella/Symposium"
         tagline: "Un forum per gli studenti dell'Università di Salerno"
 
-      - title: Generator-FastVue
-        link: "https://github.com/didacusabella/generator-fastvue"
-        tagline: "Un generatore di progetti basato su Yeoman per creare un progetto basato su Fastify e Vue"
+      - title: FhirCloud
+        link: "https://github.com/didacusAbella/FhirCloud"
+        tagline: "Implementazione di un architettura cloud per l'integrazione di dati medicali utilizzando lo standard FHIR"
 
       - title: PocketDev
-        link: "https://github.com/didacusabella/pocketdev"
+        link: "https://github.com/didacusAbella/pocketdev"
         tagline: "Una piattaforma basata su ontolgie per guidare un individuo alla carriera informatica che vuole intraprendere"
 
 publications:
     title: Pubblicazioni
     intro: |
-      I lavori di ricerca durante l'università e quelli (chissà) che farò in futuro
+      I lavori di tesi durante l'università e quelli (chissà) che farò in futuro
     papers:
       - title: BlockChain, un'alternativa alla Proof of Work
         link: "#"
@@ -141,7 +140,7 @@ skills:
       - name: C (MPI,OpenCV)
         level: 85%
 
-      - name: PHP (Prestashop)
+      - name: PHP (Prestashop, Laravel)
         level: 70%
 
 footer: >
