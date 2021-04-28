@@ -71,7 +71,7 @@ education:
           - Conoscenza Teorica (Calcolatori, Reti, Web)
 experiences:
     - role: Tirocinante
-      time: Ottombre (2020) - Dicembre (2020)
+      time: Ottombre (2019) - Dicembre (2019)
       company: Mtn Company
       details: |
           È stato un tirocinio che ho svolto durante la mia carriera universitaria, dove ho avuto
@@ -82,7 +82,8 @@ experiences:
       time: Dicembre(2020) - Febbraio(2021)
       company: Lavoro da FreeLancer
       details: |
-        Ho realizzato una piattaforma gestionale per una concessionaria di automobili di Vallo della Lucania.
+        Lavoro occasionale commissionato dall'azienda MyWebStrategy in cui mi sono occupato di realizzare un
+        gestionale per un azienda di noleggio veicoli di Vallo della Lucania
 projects:
     title: Progetti
     intro: >
@@ -111,7 +112,7 @@ projects:
 publications:
     title: Pubblicazioni
     intro: |
-      I lavori di tesi durante l'università e quelli (chissà) che farò in futuro
+      I lavori di tesi durante la carriera universitaria
     papers:
       - title: BlockChain, un'alternativa alla Proof of Work
         link: "#"
